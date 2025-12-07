@@ -1,0 +1,6 @@
+.env
+*.csv
+temp_*
+__pycache__/
+*.pyc
+start_bot.bat
